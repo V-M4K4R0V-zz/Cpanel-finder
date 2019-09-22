@@ -28,7 +28,7 @@ print "\t                       1337                          >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
 
-print " Please Enter Target Site URL:\n Example: www.target.com or www.target/path\n-> ";
+print " Please Enter Target Site URL:\n Example: www.niba.com or www.target/path\n-> ";
 $site=<STDIN>;
 chomp $site;
 
