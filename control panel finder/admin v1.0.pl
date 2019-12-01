@@ -20,11 +20,11 @@ system('Control Panel Finder v2.0');
 system "color 0a";
 print"\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
-print "\t> [!]Control Panel Finder v2.0                       >\n";
-print "\t>                Develope By Big-Smoke               >\n";
+print "\t>            [!]Control Panel Finder v2.0            >\n";
+print "\t>       Developed By V.M4K4R0V & 1N1T5 & Cl0Udy      >\n";
 print "\t>       ======================================       >\n";
-print "\t>           42Network student  -- ael-moun           >\n";
-print "\t                       1337                          >\n";
+print "\t>                    42Network students              >\n";
+print "\t                         at 1337                     >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
 
