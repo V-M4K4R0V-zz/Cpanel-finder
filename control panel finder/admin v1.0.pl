@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-# 1337/42NET
 use HTTP::Request;
 use LWP::UserAgent;
 
@@ -11,8 +10,7 @@ print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\t>            [!]Control Panel Finder v2.0            >\n";
 print "\t>       Developed By V.M4K4R0V & 1N1T5 & Cl0Udy      >\n";
 print "\t>       ======================================       >\n";
-print "\t>                    42Network students              >\n";
-print "\t                         at 1337                     >\n";
+print "\t                                                     >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
 
