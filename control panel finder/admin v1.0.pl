@@ -14,7 +14,7 @@ print "\t                                                     >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
 
-print " Please Enter Target Site URL:\n Example: www.niba.com or www.target/path\n-> ";
+print " Please Enter Target Site URL:\n Example: www.1337.ma or www.target/path\n-> ";
 $site=<STDIN>;
 chomp $site;
 
@@ -309,6 +309,7 @@ my $response=$ua->request($req);
 if($response->content =~ /Username/ ||
 $response->content =~ /Password/ ||
 $response->content =~ /username/ ||
+#v.m4k4r0v
 $response->content =~ /password/ ||
 $response->content =~ /USERNAME/ ||
 $response->content =~ /PASSWORD/ ||
@@ -373,6 +374,7 @@ $response->content =~ /USERNAME/ ||
 $response->content =~ /PASSWORD/ ||
 $response->content =~ /Username/ ||
 $response->content =~ /Wachtwoord/ ||
+#cl0udy
 $response->content =~ /Senha/ ||
 $response->content =~ /senha/ ||
 $response->content =~ /Personal/ ||
@@ -422,6 +424,7 @@ $final=$site.$ways;
 
 my $req=HTTP::Request->new(GET=>$final);
 my $ua=LWP::UserAgent->new();
+#1n1t5
 $ua->timeout(30);
 my $response=$ua->request($req);
 
